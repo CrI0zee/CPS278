@@ -2,10 +2,17 @@ public class customer {
     //name and address atributes
 
     public String name;
+    public address address; 
+
     
-    public void setname(String name)
+    public customer(String name, address address)
     {
         this.name = name; 
+        this.address = address;
     }
 
+    public String toString()
+    {
+        return "Customer[name="+name+", address="+ address.toString() +"]";
+    }
 }
