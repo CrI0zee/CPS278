@@ -1,0 +1,5 @@
+package edu.wccnet.cooconnor.springMVC.validation;
+
+public class Interest {
+
+}

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="spring_mvc_demo"/>
+<aop-project name="spring_mvc_form"/>
+<aop-project name="Mortgage-Calculator"/>
+<aop-project name="PizzaOrderingSystem"/>
+<aop-project name="spring_mvc_form-validation"/>
+<aop-project name="spring_mvc_custom_validation"/>
+<aop-project name="spring_mvc_form-tag"/>
+</aop-reference-model>

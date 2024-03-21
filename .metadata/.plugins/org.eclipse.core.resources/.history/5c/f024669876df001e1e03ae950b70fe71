@@ -1,0 +1,5 @@
+package edu.wccnet.cooconnor.springMVC.domain;
+
+public class MonthlyPayment {
+
+}

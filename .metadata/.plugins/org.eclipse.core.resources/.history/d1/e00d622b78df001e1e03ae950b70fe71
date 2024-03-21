@@ -1,0 +1,14 @@
+package edu.wccnet.cooconnor.springMVC.domain;
+
+public class MonthlyPayment {
+	Loan loan;
+	public double getMonthlyPayment() {
+		int principal = loan.getPrincipal();
+		double interestRate = Double.parseDouble(loan.getInterest());
+		interestRate =(interestRate / 100) / 12;
+		int time = loan.getLoanTerm();
+		time *= 12; 
+		double monthlyPayment = (principal * interestRate) / (1 - Math.pow(1 + interestRate, -time));
+		return monthlyPayment;
+	}
+}

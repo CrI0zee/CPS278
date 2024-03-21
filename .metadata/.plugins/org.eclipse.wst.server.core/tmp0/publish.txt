@@ -1,0 +1,10 @@
+#Tomcat publish data
+#Wed Mar 13 14:11:35 EDT 2024
+org.eclipse.jst.jee.server\:spring_mvc_demo=C\:\\Program Files\\Apache Software Foundation\\Tomcat 9.0\\wtpwebapps\\spring_mvc_demo
+org.eclipse.jst.jee.server\:spring_mvc_form=C\:\\Program Files\\Apache Software Foundation\\Tomcat 9.0\\wtpwebapps\\spring_mvc_form
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\corey\\.m2\\repository\\org\\springframework\\spring-web\\5.3.1\\spring-web-5.3.1.jar=C\:\\Program Files\\Apache Software Foundation\\Tomcat 9.0\\wtpwebapps\\PizzaOrderingSystem\\WEB-INF\\lib\\spring-web-5.3.1.jar
+org.eclipse.jst.jee.server\:PizzaOrderingSystem=C\:\\Program Files\\Apache Software Foundation\\Tomcat 9.0\\wtpwebapps\\PizzaOrderingSystem
+org.eclipse.jst.jee.server\:spring_mvc_form-tag=C\:\\Program Files\\Apache Software Foundation\\Tomcat 9.0\\wtpwebapps\\spring_mvc_form-tag
+org.eclipse.jst.jee.server\:spring_mvc_form-validation=C\:\\Program Files\\Apache Software Foundation\\Tomcat 9.0\\wtpwebapps\\spring_mvc_form-validation
+org.eclipse.jst.jee.server\:spring_mvc_custom_validation=C\:\\Program Files\\Apache Software Foundation\\Tomcat 9.0\\wtpwebapps\\spring_mvc_custom_validation
+org.eclipse.jst.jee.server\:Mortgage-Calculator=C\:\\Program Files\\Apache Software Foundation\\Tomcat 9.0\\wtpwebapps\\Mortgage-Calculator

@@ -1,0 +1,14 @@
+package edu.wccnet.cooconnor.springMVC.validation;
+
+import javax.validation.ConstraintValidator;
+import javax.validation.ConstraintValidatorContext;
+
+public class InterestConstraintValidator implements ConstraintValidator<Interest, Double> {
+
+	@Override
+	public boolean isValid(Double value, ConstraintValidatorContext context) {
+		// TODO Auto-generated method stub
+		return false;
+	}
+
+}

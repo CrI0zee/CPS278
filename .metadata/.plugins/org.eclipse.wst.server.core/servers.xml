@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servers>
+  <server auto-publish-setting="2" auto-publish-time="1" configuration-id="/Servers/Tomcat v9.0 Server at localhost-config" deployDir="wtpwebapps" hostname="localhost" id="Tomcat v9.0 Server at localhost" name="Tomcat v9.0 Server at localhost" runtime-id="Apache Tomcat v9.0" server-type="org.eclipse.jst.server.tomcat.90" server-type-id="org.eclipse.jst.server.tomcat.90" start-timeout="45" stop-timeout="15" testEnvironment="false" timestamp="10">
+    <list key="modules" value0="spring_mvc_demo::org.eclipse.jst.jee.server:spring_mvc_demo::jst.web::4.0" value1="spring_mvc_form::org.eclipse.jst.jee.server:spring_mvc_form::jst.web::4.0" value2="spring_mvc_form-tag::org.eclipse.jst.jee.server:spring_mvc_form-tag::jst.web::4.0" value3="spring_mvc_form-validation::org.eclipse.jst.jee.server:spring_mvc_form-validation::jst.web::4.0" value4="spring_mvc_custom_validation::org.eclipse.jst.jee.server:spring_mvc_custom_validation::jst.web::4.0" value5="Mortgage-Calculator::org.eclipse.jst.jee.server:Mortgage-Calculator::jst.web::4.0" value6="PizzaOrderingSystem::org.eclipse.jst.jee.server:PizzaOrderingSystem::jst.web::4.0"/>
+  </server>
+</servers>

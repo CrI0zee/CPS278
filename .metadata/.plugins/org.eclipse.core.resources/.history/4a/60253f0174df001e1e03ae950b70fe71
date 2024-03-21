@@ -1,0 +1,20 @@
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+    pageEncoding="ISO-8859-1"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Monthly Amortization Schedule</title>
+<style type="text/css">
+.error{
+	color : red
+}
+</style>
+<link rel="stylesheet" type="text/css" href="${pageContext.request.contextPath}/resources/css/myStyle.css">
+
+</head>
+<body>
+	<h1>Monthly Amortization Schedule</h1>
+	<label for="${loan.interest}"></label>
+</body>
+</html>
